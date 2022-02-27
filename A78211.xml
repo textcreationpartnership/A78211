@@ -1,0 +1,549 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The strong man ejected by a stronger then he. In a sermon preached at Gloucester, the 15th of May, 1660. Being the day his Royal Majesty, King Charles the second, was proclaimed. Shewing, how the strong man Satan is cast out of the palace of the heart, and the Lord Christ possessed thereof. With some application to the present ejectment of the late usurper, Satans confederate, out of the royal palace, and the Lords Christ, King Charles the-second possessed thereof. By Wil. Bartholmevv, M.A. and Vicar of Campden in Gloucester-shire.</title>
+            <author>Bartholomew, William, vicar of Campden.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78211</idno>
+            <idno type="STC">Wing B979</idno>
+            <idno type="STC">Thomason E1033_3</idno>
+            <idno type="STC">ESTC R208957</idno>
+            <idno type="EEBO-CITATION">99867872</idno>
+            <idno type="PROQUEST">99867872</idno>
+            <idno type="VID">168907</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78211)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168907)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 153:E1033[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The strong man ejected by a stronger then he. In a sermon preached at Gloucester, the 15th of May, 1660. Being the day his Royal Majesty, King Charles the second, was proclaimed. Shewing, how the strong man Satan is cast out of the palace of the heart, and the Lord Christ possessed thereof. With some application to the present ejectment of the late usurper, Satans confederate, out of the royal palace, and the Lords Christ, King Charles the-second possessed thereof. By Wil. Bartholmevv, M.A. and Vicar of Campden in Gloucester-shire.</title>
+                  <author>Bartholomew, William, vicar of Campden.</author>
+               </titleStmt>
+               <extent>[4], 27, [1]   </extent>
+               <publicationStmt>
+                  <publisher>printed by W. Godbid, for Richard Thrale at the Crosse-Keyes, at St. Paul's Gate, entring into Cheapside,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: The strong man ejected by a stronger then he.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168907:1" rendition="simple:additions"/>
+            <p>The Strong Man EJECTED BY A STRONGER THEN HE. In a SERMON Preached at <hi>Glouceſter,</hi> the 15<hi rend="sup">th</hi> of <hi>May,</hi> 1660. Being the day his Royal Majeſty, King <hi>CHARLES</hi> the Second, was Proclaimed. SHEWING, How the Strong Man Satan is caſt out of the Palace of the Heart, and the Lord CHRIST Poſſeſſed thereof. With ſome Application to the preſent Ejectment of the late Uſurper, Satans Confederate, out of the Royal Palace, and the Lords Chriſt, King <hi>CHARLES</hi> the Second Poſſeſſed thereof. By WIL. BARTHOLMEVV, M. A. and Vicar of <hi>Campden</hi> in <hi>Glouceſter-ſhire.</hi>
+            </p>
+            <q>
+               <p>If the Son therefore ſhall make you free, ye ſhall be free indeed,</p>
+               <bibl>
+                  <hi>Jo. 8.36.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Duae ſunt Urbes, una Civitas Dei Hieruſalem: Altera civitas Diaboli Babylon. Illam aedificat amor Dei-pertingens uſq ad contemptum ſui: Hanc aedificat amor ſui-pertingens uſque ad contemptum Dei.</p>
+               <bibl>
+                  <hi>Aug.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>W. Godbid,</hi> for <hi>Richard Thrale</hi> at the <hi>Croſſe-Keyes,</hi> at St. <hi>Paul</hi>'s <hi>Gate,</hi> entring into <hi>Cheapſide.</hi> 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:168907:2"/>
+            <pb facs="tcp:168907:2"/>
+            <head>
+               <hi>TO THE RIGHT HONOURABLE,</hi> My very good Lady and Patroneſſe, <hi>IULIAN,</hi> Vicounteſſe CAMPDEN, All encreaſe of Grace and Happineſs.</head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I Preached this ſlender Piece, there was not the leaſt thought in my mind of bringing it to the Preſs; but ſince, being beſeiged with a ſtrong force of Importuni<g ref="char:EOLhyphen"/>ties,
+<pb facs="tcp:168907:3"/>Friends conquered me, though they can never confute me of my Opinion, touching the little worth ſo imperfect an embryon as this hath to go abroad in publick: I was confident it would meet with Cenſures, and therefore care<g ref="char:EOLhyphen"/>full it might finde ſome Sanctu<g ref="char:EOLhyphen"/>ary: And no better then under your Honours protection, where the unworthy Author, and thoſe that are dear to him have found ſo good ſhelter. Be pleaſed there<g ref="char:EOLhyphen"/>fore, I beſeech your Honour, to let it come forth under your <hi>Pa<g ref="char:EOLhyphen"/>tronage,</hi> both as a pledge of my Duty, and thankfulneſſe, for your many and great <hi>Favours</hi> conferred on me, unworthy of the leaſt. And alſo that others
+<pb facs="tcp:168907:3"/>ſeeing your Honours Name pre<g ref="char:EOLhyphen"/>fixed, may be induced to read it over. Some right you have to it, alſo for the Argument ſake: It is a diſcourſe of a <hi>Chriſtians Liberty,</hi> purchaſed by <hi>Jeſus Chriſt,</hi> from under Sin, and Satans thraldome. And to whom muy fitly can it be dedicated then to your ſelfe, whom the Lord hath ſo conſpi<g ref="char:EOLhyphen"/>cuouſly called to partake of that Liberty? witneſſe the luſtre of your perſonal Sanctity, your con<g ref="char:EOLhyphen"/>ſtancy in Private and Publick <hi>Devotions,</hi> and your zealous en<g ref="char:EOLhyphen"/>devour to plant <hi>Religion</hi> in the meaneſt of your <hi>Family,</hi> that you and your Houſe, may unanimouſly ſerve the Lord.</p>
+            <p>There is ſomething likewiſe in
+<pb facs="tcp:168907:4"/>this Sermon, by way of Con<g ref="char:EOLhyphen"/>gratulation and Thankfulneſſe, to the great God of Heaven, by whom Kings reign on Earth, for that much longed for liberty, re<g ref="char:EOLhyphen"/>ſtored unto us as Subjects, by the moſt happy and miraculous Ad<g ref="char:EOLhyphen"/>vent of our <hi>Dread Soveraign, King</hi> CHARLES <hi>the Second,</hi> to the <hi>Royal throne of his Anceſtors.</hi> And in this Liberty, likewiſe as your Honour receiveth a large ſhare, ſo of Joy and Thankful<g ref="char:EOLhyphen"/>neſſe, you render unto God a liberal tribute. And not your ſelfe onely, but your <hi>Family and noble relations</hi> (who have ever gi<g ref="char:EOLhyphen"/>ven abundant teſtimony of their Loyalty to his <hi>Sacred Majeſty,</hi> and to his <hi>Royal Father of Glori<g ref="char:EOLhyphen"/>ous
+<pb facs="tcp:168907:4"/>memory</hi>) do now proportiona<g ref="char:EOLhyphen"/>bly rejoyce and bleſſe God for his happy and wonderful Reſtau<g ref="char:EOLhyphen"/>ration: And all their Sufferings for their <hi>Fidelity</hi> to their <hi>Prince,</hi> are remembred no more, for joy that our <hi>Soveraigne Lord the</hi> KING is come in peace to his Houſe.</p>
+            <p>Thus doth your Honours <hi>Pi<g ref="char:EOLhyphen"/>ety</hi> and <hi>Loyalty,</hi> both challenge an intereſt in this little mite, heightned much in worth by your Honours acceptance of it. The Bleſſing of God go along with it, and make it effectuall to the building up of every one that reads it in Faith and Love: And the good Lord continue and mul<g ref="char:EOLhyphen"/>tiply the comfort of his Spirit in
+<pb facs="tcp:168907:5"/>your Heart, and your bleſſed hope to be partaker of the In<g ref="char:EOLhyphen"/>heritance of the Saints in Light.</p>
+            <closer>
+               <dateline>
+                  <hi>Campden in Glouceſter-ſhire.</hi>
+               </dateline>
+               <signed>Your Honours Chap<g ref="char:EOLhyphen"/>lain to all Chriſtian Duty, and Service obliged, <hi>WIL. BARTHOLMEVV.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:168907:5"/>
+            <head>THE STRONG MAN EJECTED, BY A STRONGER then HE.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>St.</hi> Luke <hi>Chap. 11. Ver. 21, 22.</hi>
+                  </bibl>
+                  <p>When a ſtrong man armed keepeth his Palace, his goods are in peace.</p>
+                  <p>But when a ſtronger then he ſhall come upon him, and overcome him, he taketh from him all his armour wherein he truſted, and di<g ref="char:EOLhyphen"/>videth his ſpoiles.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>T the 14. verſe we finde our Bleſſed Savi<g ref="char:EOLhyphen"/>our caſting out a dumb Devill; In his own nature dumb, as to any penitent confeſſion of any ſin he ever yet committed: How<g ref="char:EOLhyphen"/>beit here he is ſaid to be dumb in regard of operation, caſting this <hi>Daemoniac</hi> into a diſ<g ref="char:EOLhyphen"/>eaſe that deprived him of his Speech, and of his Sight too, <hi>Blinde</hi>
+               <note n="a" place="margin">Mat. 12.12.</note> 
+               <hi>and Dumb,</hi> ſaith Saint <hi>Matthew,</hi> and of his <hi>Hea<g ref="char:EOLhyphen"/>ring</hi> alſo, as ſome Interpreters ſuppoſe, becauſe we do not
+<pb n="2" facs="tcp:168907:6"/>read that our Saviour ſaith, as at other times, <hi>Believeſt thou that I am able to do this?</hi>
+            </p>
+            <p>Now,<note place="margin">The cohe<g ref="char:EOLhyphen"/>rence and oc<g ref="char:EOLhyphen"/>caſion of the words being</note> as moſt actions fall under divers conſtructions, the beſt we can ſay, or do, undergoes divers opinions and cen<g ref="char:EOLhyphen"/>ſures, ſo doth this miracle of Chriſt. The Common Peo<g ref="char:EOLhyphen"/>ple, and Illiterate Multitude ſtand amazed and wonder; ſaying,<note n="b" place="margin">Matth. 12.13.</note> 
+               <hi>This is</hi> (or is not this the Son of <hi>David?</hi>) <hi>the Meſſias that ſhall deliver us and reigne over us?</hi>
+            </p>
+            <p>But the learned Scribes and Phariſees,<note place="margin">A Scandal which the Scribes would faſten upon Chriſt</note> made up of de<g ref="char:EOLhyphen"/>praving, they ſlander and diſparage him (how much better is it to be Holy then Witty?) He caſteth out Devills (ſay they) through <hi>Beelzebub</hi> the Prince of Devils: that Lord of Flies, ſo called, either from the abundance of Flies flocking to the Sacrifices offered to that Idol, or from his aid im<g ref="char:EOLhyphen"/>plored againſt thoſe Swarmes of Flies that did infeſt <hi>Ekron</hi> in <hi>Paleſtine</hi> their Country, where this Idol was worſhip<g ref="char:EOLhyphen"/>ped: Or becauſe,<note place="margin">Removed by him, with three argu<g ref="char:EOLhyphen"/>ments.</note> when the Devil gave his reſponſes to the Inchanters, he appeared in the form of a great Fly. This their calumny and aſperſion our Saviour refuteth.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. From the evill conſequent of diſſention, <hi>Every Kingdome divided againſt it ſelf is brought to deſolation.</hi> Truth it is that (upon compact) one Devil may undo what ano<g ref="char:EOLhyphen"/>ther doth (attempting by ſuch politique combination) in the ſame project to reſieve the Body; but to gain the Soul, and to enlarge the <hi>Kingdome of Darkneſſe.</hi> But for one Devill to oppoſe another, to caſt the Devils Kingdome out of the world, and to ſet up the <hi>Kingdome of God,</hi>
+               <note n="c" place="margin">Ver. 20.</note> (which is Chriſts deſigne) this <hi>Beelzebub</hi> will not do, neither can ſuch a deſigne be carried on, by thoſe that u<g ref="char:EOLhyphen"/>nite in one, but amongſt Enemies that are divided.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The ſecond Argument our Saviour uſeth for refutation of their Blaſphemous ſlander, is <hi>ab exemplo pari,</hi> from the like example:<note n="d" place="margin">Ver. 19.</note> 
+               <hi>If I by Beelzebub caſt out Devils, by whom do your Sons caſt them out?</hi> Your Sons (i) the Children of your own Nation, thoſe <hi>Exorciſts</hi> born amongſt you, who caſt out Devils<note n="e" place="margin">Acts 19.13, 17. Matth. 7.22.</note> in the name of the <hi>Lord Jeſus Chriſt:</hi> You do not ſay they caſt them out by Beelzebub, why then are you partial Judges, to paſſe contrary Sentence on the like
+<pb n="3" facs="tcp:168907:6"/>fact? To applaud them who caſt out Devils by my power, and to condemn me who am that <hi>Power?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> A third Argument is taken from the effects, preſſed by a <hi>Military ſimilitude.</hi> The Devil is ſtrong and compleatly armed, and will not be caſt out of his <hi>Poſſeſſion,</hi> but by a ſtrength ſuperior: ſo that my diſpoſſeſſing of Satan, is an evidence that I do not uſe his power, but that mine is grea<g ref="char:EOLhyphen"/>ter than any he hath: For even common experience ſhew<g ref="char:EOLhyphen"/>eth, that no man can come into a <hi>Strong mans houſe,</hi> and <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Plunder</hi> his Houſhold-ſtuffe, unleſſe he be ſtronger then he.</p>
+            <p>
+               <hi>When a ſtrong man armed,</hi> &amp;c.] Hitherto we have onely viewed the <hi>Casket,</hi>
+               <note place="margin">The ſence of the words. Hiſtory. Myſtery. <hi>Calvin in loc. &amp; ſaepe.</hi>
+               </note> there is a <hi>Jewel</hi> in the Text not yet ſhewed you. Beſides the Hiſtory (whereunto we ſhall have occaſion to look back anon) there is a farther <hi>Myſte<g ref="char:EOLhyphen"/>ry</hi> to be diſcovered in the words. Chriſts bodily cures had uſually a tendency to ſomething Spiritual, for the ſa<g ref="char:EOLhyphen"/>ving of the Soul. This <hi>Blinde</hi> and <hi>Dumb man</hi> whom Satan poſſeſſed, is a type of all men that lye under the Dominion of Sin:<note n="f" place="margin">2 Cor. 4.4.</note> whoſe Eyes the God of this world hath blind<g ref="char:EOLhyphen"/>ed,<note n="g" place="margin">Epheſ. 2.2.</note> whoſe heart the <hi>Prince of the Aire</hi> keepeth in peace<g ref="char:EOLhyphen"/>able poſſeſſion: <hi>When a Strong man,</hi> &amp;c.</p>
+            <p>
+               <hi>Untill a Stronger then he</hi> [i] <hi>Jeſus Chriſt,</hi> ſhall be pleaſed in mercy to viſit any ſuch miſerable Vaſſal. Then he ejects Satan, pulls down the reign of ſin, takes poſſeſſion of that poor captivated heart for his own <hi>habitation,</hi> reſtores to <hi>God</hi> his Creature that was loſt, and to Man the Graces whereof he was deſpoiled.</p>
+            <p>
+               <hi>But when a Stronger,</hi>
+               <note place="margin">The diviſion and parts.</note> &amp;c.] <hi>Which words</hi> are divided as the <hi>World</hi> is, <hi>two Kings</hi> over <hi>two great Families or Kingdomes di<g ref="char:EOLhyphen"/>vided both. Chriſt</hi> and <hi>Belial.</hi> the <hi>God</hi> that overcomes the <hi>world,</hi> and the <hi>God</hi> of this evill <hi>world.</hi> The <hi>King of Saints, Jeſus Chriſt;</hi> and the <hi>King,</hi> the <hi>Prince of the Power of Dark<g ref="char:EOLhyphen"/>neſſe,</hi> the Devil.</p>
+            <p>The <hi>order</hi> of the words invite me to ſpeak firſt of the <hi>Prince of the Power of Darkneſſe,</hi> wherein firſt we are to take notice of his <hi>Power,</hi> he is <hi>a ſtrong man.</hi>
+            </p>
+            <p>Secondly his <hi>Armour,</hi> he is <hi>a ſtrong man armed.</hi>
+            </p>
+            <pb n="4" facs="tcp:168907:7"/>
+            <p>Thirdly, his poſſeſſion he keepeth the Palace.</p>
+            <p>Fourthly, the poſture of his Subjects, like the people of <hi>Laiſh,</hi> all quiet and ſecure, his goods are in peace.</p>
+            <p>
+               <hi>When a Strong man armed, &amp;c.</hi>
+            </p>
+            <p>Until ſecondly, Jeſus Chriſt, the King of Saints comes, ejects Satan, and enters his Territories by force: Who is deſcribed here, firſt by his ſtrength and valour, He is ſtronger then Satan, and cometh upon him. Secondly, his Victory, He overcometh him. Thirdly his moſt prudent management of that Victory; 1. He diſarms the enemie. 2. Reſcues his Captives out of the enemies hands, and (as <hi>David</hi> in the caſe of <hi>Ziglag,</hi> ſo the Son of <hi>David</hi>) reco<g ref="char:EOLhyphen"/>vers all the ſpoyles and divideth them amongſt them.</p>
+            <p>
+               <hi>But when a ſtronger then he, &amp;c.</hi>
+            </p>
+            <p>To all which particulars I ſhall likely ſpeak ſomething whilſt I inſiſt on theſe <hi>two Propoſitions,</hi>
+               <note place="margin">Sum'd up in 2. propoſitions.</note> whereunto we are to hold us at this time.</p>
+            <p>Firſt, That all unconverted ones, living in a ſtate of habitual ſin, and actual diſobedience againſt God: they are in bondage under Sathan: Led captive by him accor<g ref="char:EOLhyphen"/>ding to his Will.</p>
+            <p>
+               <hi>When a ſtrong man armed, &amp;c.</hi>
+            </p>
+            <p>Secondly, When Jeſus Chriſt is pleaſed in mercy to viſit any ſuch poor captives, He ejects Satan, pulls down the Reign and Dominion of Sin, takes poſſeſſion of their hearts for his own habitation, and reſtores unto them the graces whereof they were deſpoyled.</p>
+            <p>
+               <hi>But when a ſtronger,</hi>
+               <note place="margin">1. Propoſition. All men un<g ref="char:EOLhyphen"/>converted are in Bondage under Satan. 1 Cor. 6.11. Epheſ. 2.2.</note> 
+               <hi>&amp;c.</hi>
+            </p>
+            <p>I will begin with the Firſt.</p>
+            <p>All unconverted, &amp;c.</p>
+            <p>Such were ſome of you, ſaith St. <hi>Paul</hi> to the <hi>Corinthians,</hi> ſuch were the <hi>Epheſians,</hi> Walking according to the Prince of the power of the Air, the Spirit that now worketh in the children of diſobedience; amongſt whom (ſaith the Apoſtle) we had our converſation in times paſt.<note place="margin">Titus 3.3.</note> We our ſelves (ſaith he) had our converſation in times paſt, fooliſh, diſobedient, ſerving divers Luſts and pleaſures,
+<pb n="5" facs="tcp:168907:7"/>living in malice and envy, haters and hating one another. <hi>(Deeds of Darkneſſe all)</hi> which ſins while men live under them, we need no other evidence that they are under the <hi>Dominion of the Prince of the power Darkneſs;</hi> for his Chil<g ref="char:EOLhyphen"/>dren ye are (ſaith our Saviour) whoſe works ye do; and his Servants ye are (ſaith the Apoſtle) to whom ye obey.<note place="margin">Rom. 6.16. A hard &amp; cru<g ref="char:EOLhyphen"/>el Bondage becauſe they are under.</note>
+            </p>
+            <p>A very hard and cruel hondage.</p>
+            <p>
+               <note place="margin" type="runSum">1. A ſtrong man. Prov. 21.16. Mr. <hi>Mede in loc.</hi> Prov. 21.16.</note> Firſt, Becauſe he that deteins them is <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>a ſtrong man,</hi> a <hi>Goliah-Gyant. The man that wanders out of the way of Wiſ<g ref="char:EOLhyphen"/>dom, ſhall remain in the Congregation of the Dead; In caetu Gigantium,</hi> in the houſe of Gyants (that's the proper ſig<g ref="char:EOLhyphen"/>nification) and ſo was Hell called by the Jews before the Captivity (ſaith a learned Critick) the aſſembly of Gyants, of thoſe Gyants, and mighty men, who in the old world re<g ref="char:EOLhyphen"/>belled againſt God, and of thoſe apoſtate <hi>Gyants,</hi> who fell from God, and of <hi>Angels</hi> became <hi>Devils.</hi> Who ſince their fall have loſt their ſpiritual <hi>Love,</hi> but retain their natural <hi>power. All</hi> which <hi>power</hi> in them, how great ſoever, is now become the <hi>power of Darkneſs, Triumphing</hi> in all the ungodly, drowned in <hi>Ignorance, diſobedience,</hi> and <hi>un<g ref="char:EOLhyphen"/>beleif,</hi> which the Apoſtle calls <hi>Darkneſs: militant, comba<g ref="char:EOLhyphen"/>ting</hi> with the godly,<note place="margin">Epheſ. 5.8.</note> 
+               <hi>For we wraſtle not</hi> (ſaith he) <hi>with fleſh and blood but againſt principalities and powers, and ſpiritual wickedneſſe, againſt wicked Spirits</hi> in ability tranſcending the power of fleſh and blood.</p>
+            <p>Mighty <hi>Gyants</hi> in whoſe ſight we are but as <hi>Graſhoppers,</hi> and as eaſily deſtroyed by them.<note place="margin">Job. 40.41.</note> 
+               <hi>Behemoth</hi> and <hi>Leviathan</hi> names (ſay ſome) ſignifying the <hi>Devil,</hi> the King of the Children of <hi>Pride,</hi> and all the powers of the earth cannot match him; A roaring <hi>Lyon</hi> who would devour all, But thanks be given to the <hi>Lyon of the tribe of Judah, Jeſus Chriſt,</hi> who for thoſe few Lambs ſake that are of his fold, the Church, hath chained that roaring Lyon the <hi>Devil,</hi> and none become a prey unto him but ſuch as yeild to his Temp<g ref="char:EOLhyphen"/>tations, and by their wilful diſobedience come within his chain, ſuch he holds faſt in the <hi>cords of their ſins,</hi> and they are Captives to this <hi>Strong man;</hi> Whoſe miſerable capti<g ref="char:EOLhyphen"/>vity is ſo much the more hard and cruel.</p>
+            <pb n="6" facs="tcp:168907:8"/>
+            <p>
+               <note place="margin" type="runSum">2. Armed having armes</note> Secondly, In that he is <hi>armed</hi> as well as <hi>ſtrong.</hi>
+            </p>
+            <p>
+               <hi>A Strong man armed,</hi> being furniſhed with <hi>armes,</hi> firſt of his own, ſecondly from our ſelves, thirdly from the Law.</p>
+            <p>Firſt,<note place="margin">I from himſelf.</note> 
+               <hi>He himſelf</hi> is a <hi>Magazine of temptations,</hi> having his Quiver full of poyſoned <hi>Arrows</hi> or <hi>Darts</hi> (as the Apo<g ref="char:EOLhyphen"/>ſtle calls them) happily becauſe moſt conſonant to his name <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a metaphor from caſting of Darts.<note place="margin">Epheſ. 6.16.</note> Amongſt which multitude, there be two <hi>poyſoned</hi> ones whereof he makes frequent uſe. The one dipt in a cold <hi>poyſon</hi> to benumme and make men ſtupid with careleſs <hi>ſecurity,</hi> whilſt they preſume to ſin. The other dipt in a hot <hi>poyſon,</hi> to ſcorch men after they have ſinned in reſtleſs <hi>deſpair.</hi>
+            </p>
+            <p>A pregnant Example of both which we have in the in<g ref="char:EOLhyphen"/>ceſtious <hi>Corinthian,</hi>
+               <note n="r" place="margin">2. Cor. 2.11.</note> whom Satan carries on ſo far in luſt as to make him preſume to joyn in an inceſtuous match. Af<g ref="char:EOLhyphen"/>terwards (when by the Churches cenſure he felt the ſmart and repented of his ſin) then Satan wrought upon his ſor<g ref="char:EOLhyphen"/>row to drive him to Deſpair, that he might periſh under cure. Which reach of Satan <hi>Paul</hi> diſcovering, he writ to the <hi>Corinthians</hi> to forgive him, and to comfort him leſt he ſhould be ſwallowed up of overmuch ſorrow, and leſt (ſaith he) Satan ſhould get an advantage over us; for we are not ignorant of his <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> his methods, Depths and Stratagems, eſpecially in making uſe of theſe two, either to ſet men on the <hi>pinacle of Preſumption,</hi> that they may ſin without fear, or perſwade them to caſt themſelves down into the <hi>Praecipice of Deſpair,</hi> that they may ſorrow with<g ref="char:EOLhyphen"/>out hope.</p>
+            <p>Secondly,<note place="margin">2. from us.</note> He is armed from us, from thoſe <hi>exerbitan<g ref="char:EOLhyphen"/>ces</hi> that are by nature within us, he throws the ſtone, but 'tis the mud within us that troubles our peace. The <hi>Igno<g ref="char:EOLhyphen"/>rance</hi> and <hi>Darkneſs</hi> that is in mens minds (eſpecially be<g ref="char:EOLhyphen"/>ing yet unconverted) their <hi>carnal reaſonings,</hi> and all that ſtubborneſſe that is in their wills, the faculties of their ſoul, the Members of their body yeilded up to be weapons and inſtruments of ſin.<note place="margin">Muſc. interpre<g ref="char:EOLhyphen"/>te.</note> 
+               <hi>Haec ſunt diaboli adverſus nos tela in<g ref="char:EOLhyphen"/>feſta</hi> (ſaith St. <hi>Bazil.</hi>)</p>
+            <pb n="7" facs="tcp:168907:8"/>
+            <p>Theſe all become <hi>Satans armour,</hi> wherewith he fighteth againſt us. <hi>The Prince of this world cometh</hi> (ſaith our Savi<g ref="char:EOLhyphen"/>our) <hi>and he hath nothing in me. No darkneſſe, nor diſobedience in me,</hi> to arm him againſt me. But now there is by <hi>nature</hi> in debauched Man, many <hi>noyſome</hi> and <hi>hurtful luſts,</hi> a <hi>party</hi> of the Devils within him, to open a <hi>poſtern gate,</hi> and give him poſſeſſion of the whole <hi>Iſle of Man.</hi> Otherwiſe Satan being without, could have no power to enter the <hi>Fort,</hi> unleſſe it were given him from within; whom to caſt out, it is be<g ref="char:EOLhyphen"/>yond the ſphere of Mans activity. For,</p>
+            <p>Thirdly, he fortifies himſelf with a Law, all men out of Chriſt, and under the reign of Sin, are debtors to the Law:<note place="margin">3. From the Law.</note> They owe a debt of obedience to the whole Law, and a debt of eternal puniſhment in Hell, for the breach of the Law; all which Satan knows very well, and will not ſpare (when he ſees his time) to thunder forth and diſcharge all his threatnings of the Law againſt the guilty <hi>Offender,</hi> to write them in <hi>Blood,</hi> to pluck him by the <hi>Throat,</hi> and to ſay, <hi>Pay that thou oweſt?</hi> to awake <hi>Conſcience,</hi> to fly in his face, and tell him, that <hi>they that doe ſuch things are worthy of Death. Death in the end, and Death without end.</hi>
+               <note n="s" place="margin">Heb. 2.14.</note> 
+               <hi>Under the Fear of which Death,</hi> (ſaith the Apoſtle) <hi>they are all their life<g ref="char:EOLhyphen"/>time ſubject to Bondage.</hi> A hard and cruel bondage.</p>
+            <p>
+               <note place="margin" type="runSum">3. Becauſe he keeps the Pa<g ref="char:EOLhyphen"/>lace, the Heart.</note> Thirdly, <hi>Becauſe the ſtrong man armed keepeth the Palace,</hi> the <hi>Heart,</hi> the <hi>precious Soul.</hi>
+            </p>
+            <p>If we peruſe hiſtories of the anguiſh and cruell bondage, that the worſt of ſlaves have ſuffered, we find that the com<g ref="char:EOLhyphen"/>mands which their rigid <hi>Taskemaſters</hi> exerciſed over them, terminated in the body, the bodily ſervice; that was the chiefeſt they looked after, whence they were called <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Bodies.<note place="margin">Doctor <hi>San<g ref="char:EOLhyphen"/>derſon</hi> Serm. 7. <hi>ad Aulam.</hi>
+               </note> Now this cruel Tyrant is not content with the <hi>Out-houſe</hi> the <hi>Body,</hi> or the <hi>ſmaller Forts</hi> the <hi>Members</hi> of the <hi>Body,</hi> that's but petty inconſiderable <hi>Pillage</hi> and <hi>ſpoile: Da mihi animas</hi> (ſaith he) give me the <hi>Souls,</hi> the <hi>Royal Pa<g ref="char:EOLhyphen"/>lace,</hi> the <hi>Heart.</hi>
+            </p>
+            <p>The principal thing that <hi>Almighty God</hi> challengeth of <hi>Man,</hi> is the <hi>Heart, My Son give me thy heart.</hi> That he would have for a <hi>Temple</hi> to dwell in, but this proud Devil
+<pb n="8" facs="tcp:168907:9"/>hath uſurped it: The <hi>Houſe of God is become a den of theeves;</hi> the <hi>Idol Dagon</hi> is ſet up in the <hi>Ark of God,</hi> and the <hi>abomina<g ref="char:EOLhyphen"/>tion of deſolation</hi> ſtands there, where by <hi>Creation</hi> was the <hi>holy place:</hi> The <hi>Heart,</hi> deſigned to be an <hi>habitation for Gods ſpi<g ref="char:EOLhyphen"/>rit</hi> is become more impure then the Stable of <hi>Augaeus, A cage of unclean Birds.</hi> So that we need not wonder why the <hi>Heart</hi> is deceitful above all things, ſince it hath recei<g ref="char:EOLhyphen"/>ved the <hi>Father of Lyes</hi> to lodge in it: <hi>When it ſpeaketh fair, beleeve it not, for there are ſeven abominations lodge there. It was,</hi> and it ſhould be <hi>a Garden incloſed for Chriſt,</hi> but till Converſion it is an open Field, where <hi>Satan ſowes his Tares,</hi> whence ſpring <hi>evil Thoughts, Adulteries, Fornications, Mur<g ref="char:EOLhyphen"/>thers, Thefts, Covetouſneſſe, Wickedneſſe, Deceit, Laſciviouſ<g ref="char:EOLhyphen"/>neſſe, an evil Eye, Blaſphemy, Pride, Fooliſhneſſe;</hi> for from this <hi>Palace,</hi> the <hi>Devil</hi> hath influence upon the whole Man. The <hi>Underſtanding</hi> is darkned, with miſts of <hi>errors,</hi> and ſtrong <hi>deluſions;</hi> the <hi>Will</hi> is become <hi>Rebel to Jeſus Chriſt,</hi> ſaying, <hi>We will not have this man to reigne over us;</hi> And, <hi>What is the Almighty that we ſhould ſerve him?</hi> The <hi>Affections</hi> are wed<g ref="char:EOLhyphen"/>ded to Satans <hi>loves</hi> and <hi>hatreds,</hi> and the members of the bo<g ref="char:EOLhyphen"/>dy <hi>(like the Centurions Servants)</hi> are ready to go and return at his beck, who ſits in his <hi>Palace,</hi> and no man ſaith, <hi>cur ita facis,</hi> why doſt thou ſo? for <hi>His goods are in peace.</hi>
+            </p>
+            <p>
+               <note place="margin" type="runSum">4. Becauſe his goods are in peace,</note> 
+               <hi>The fourth and laſt,</hi> but not the <hi>leaſt aggravation,</hi> of ſinful mans ſlavery and bondage.</p>
+            <p>
+               <hi>When the ſtrong man armed keepeth the Houſe, his goods are in peace.</hi>
+            </p>
+            <p>The old <hi>Cerberus</hi> hath his <hi>Priſoners</hi> ſure enough, and now he will not wag his tongue to diſquiet them, yea ra<g ref="char:EOLhyphen"/>ther uſeth all ſtratagems to preſerve in his <hi>Vaſſalls</hi> a tempo<g ref="char:EOLhyphen"/>rary peace,<note place="margin">which peace proceeds,</note> that they may not attempt an eſcape from un<g ref="char:EOLhyphen"/>der his Yoak.</p>
+            <p>In order whereunto,<note place="margin">Firſt, from Satans tam<g ref="char:EOLhyphen"/>pering with Conſcience.</note> firſt he tampers with <hi>Conſcience,</hi> to remove thence all ſcruple. The conſcience of Man lyes un<g ref="char:EOLhyphen"/>der two operations of the Devil,<note n="t" place="margin">Pſal. 65.3.</note> 
+               <hi>In the evill day of affli<g ref="char:EOLhyphen"/>ction, when a mans iniquities prevail againſt him,</hi> then he a<g ref="char:EOLhyphen"/>wakes Conſcience, that every ſinful moat may ſeem a beam, and ſo he may put all in a <hi>hurry,</hi> as if Hell and the Soul were met together.</p>
+            <pb n="9" facs="tcp:168907:9"/>
+            <p>But in time of <hi>Proſperity,</hi> he ſows <hi>Pillows under mens El<g ref="char:EOLhyphen"/>bows,</hi> and is deſirous <hi>Conſcience</hi> ſhould ſtretch it ſelfe on a bed of <hi>Ivory,</hi> and take its eaſe.</p>
+            <p>A <hi>Sermon</hi> at ſuch a time (like that of <hi>Paul</hi> to <hi>Felix</hi>) of <hi>Judgement to come,</hi> is not in ſeaſon. The time he knows is not yet for his <hi>Priſoner</hi> to receive his torment, therefore he deſires he may live at eaſe, that his goods may be in peace.</p>
+            <p n="2">2.<note place="margin">2. From the nature of ha<g ref="char:EOLhyphen"/>bitual ſin.</note> This evill peace receiveth nouriſhment from the na<g ref="char:EOLhyphen"/>ture of <hi>habitual</hi> ſin. A godly man, though he may be <hi>taken by occaſion in a fault,</hi> yet finds he no reſt in the way that is finfull; <hi>No reſt in my bones by reaſon of my ſin,</hi> (ſaith <hi>Da<g ref="char:EOLhyphen"/>vid;</hi>) but an ungodly man<note n="u" place="margin">Jude v. 12.</note> 
+               <hi>feeds himſelf in ſin without fear.</hi>
+            </p>
+            <p>For as no element (they ſay) is ponderous in its proper place (if we lye under deep waters, the burthen thereof of<g ref="char:EOLhyphen"/>fends us not, though otherwiſe they may annoy us) ſo Sin is not a burthen to a man in his unregeneracy, and his un<g ref="char:EOLhyphen"/>converted <hi>condition,</hi> it being in him as in its proper region or element, <hi>he is at peace.</hi>
+            </p>
+            <p>This Lethargy taketh growth.</p>
+            <p n="3">3. From evil managing plenty, unto living <hi>voluptuouſly:</hi>
+               <note place="margin">3. From plen<g ref="char:EOLhyphen"/>ty ill mana<g ref="char:EOLhyphen"/>ged.</note> It is the rich man in the Goſpel that ſaid, <hi>Soul take thy eaſe, thou haſt goods laid up for many years.</hi>
+            </p>
+            <p>A Surfet of <hi>plenty</hi> or <hi>pleaſure</hi> drowns <hi>ſinners</hi> in a ſleep of <hi>ſecurity,</hi> and then Satan hath them ſure.</p>
+            <p>It was <hi>Craſus</hi> his councel to <hi>Cyrus</hi> that that if he would hold the <hi>Lydians in Slavery,</hi> he muſt let them <hi>ſing,</hi> and <hi>play,</hi> and <hi>drink,</hi> and <hi>dance</hi> and <hi>dally,</hi> and ſuch pipes Satan wants not, that a <hi>dead ſleep of carnal ſecurity</hi> may fall upon his <hi>Veſ<g ref="char:EOLhyphen"/>ſals,</hi> and that they may for the preſent live in peace: <hi>A wretched and miſerable peace</hi> that ends in <hi>ruine and deſtru<g ref="char:EOLhyphen"/>ction.</hi>
+            </p>
+            <p>The<note n="w" place="margin">Ariſt. Prob. Sect. 23. q. 5.</note> 
+               <hi>Philoſopher</hi> tells us of a <hi>Sea,</hi> wherein by hollows of the <hi>Earth,</hi> or ſome whirling attractive property, the Ship is ſuckt in, and caſt away in a calm; ſo do wicked mens Souls gently periſh in the midſt of their own ſecuri<g ref="char:EOLhyphen"/>ty: <hi>While they cry peace, peace</hi> (ſaith the Scripture) <hi>ſudden
+<pb n="10" facs="tcp:168907:10"/>deſtruction ſhall come upon them, as travel upon a woman, and they ſhall not eſcape.</hi>
+            </p>
+            <p>
+               <hi>Great peace have they that love Gods Law,</hi> (ſaith the Pſal<g ref="char:EOLhyphen"/>miſt) <hi>and nothing ſhall offend them.</hi> But ſuch as have forſaken Gods Law, and caſt it behinde their back, if they have <hi>Peace, the Devil is in that peace.</hi> If <hi>Pharaoh</hi> be at peace with the <hi>Iſraelites,</hi> it is a ſign they are his <hi>Bond-ſlaves.</hi> If the <hi>Goaler</hi> be at peace with his <hi>Priſoner,</hi> it is a ſigne he hath him under <hi>Bar</hi> and <hi>Bolt;</hi> and if Satan be at peace with <hi>wicked men,</hi> and they at peace in their Sins, it is a ſigne he is poſſeſſed of the <hi>Palace,</hi> (their <hi>hearts</hi>) and they are his <hi>Vaſſals;</hi> and ſo my firſt <hi>Propoſition</hi> is cleared.</p>
+            <p>
+               <hi>That all unconverted ones,</hi> &amp;c.</p>
+            <p>Whither now (by way of <hi>Application</hi>) ſhall I convert my Speech,<note place="margin">Application to all that are unconverted, to take up a Lamentation, and to cry mightily to God, to ſend his Son Jeſus Chriſt, to make them free.</note> but to ſuch as are not yet converted from the error of their ways, and from the evil of their doings. To all that live in the practice of any known ſins, and yet are at peace in themſelves: that they would take up a <hi>Lamentation and Mourning for their ſad and miſerable condition, as one that mourneth for the death of his firſt-born.</hi>
+            </p>
+            <p>
+               <hi>The Prince of the Power of darkneſſe,</hi> they are under him; his <hi>Captives, Vaſſals and ſlaves. You walk in darkneſſe, in diſ<g ref="char:EOLhyphen"/>obedience againſt God</hi> (thats the way you are in) <hi>and dark<g ref="char:EOLhyphen"/>neſſe, outer darkneſſe</hi> will be your portion, thats the end you are haſting to.</p>
+            <p>
+               <hi>Profligate</hi> ſinners may ſay in their <hi>ruffe</hi> and <hi>jollity,</hi> as thoſe <hi>Gallant fellowes</hi> in the 12 <hi>Pſalme</hi> and 4 <hi>verſe. Who is Lord over us?</hi>
+            </p>
+            <p>Truly it is no hard matter to anſwer you, <hi>even the Devil,</hi> all you have, all you are, is his, he hath the cuſtody of that <hi>Royal Fort,</hi> the <hi>Palace</hi> the <hi>Heart,</hi> thats his houſe; <hi>I will go to my houſe</hi> (ſaith that unclean ſpirit) <hi>Matth.</hi> 12.44. <hi>and when he comes he findes it empty,</hi> ſo is every heart that is not eſtabliſhed with grace, and <hi>garniſhed,</hi> ready for him and his gueſts, <hi>even ſeven Devils more wicked then himſelf,</hi> which puſh on miſerable captives to commit iniquity with gree<g ref="char:EOLhyphen"/>dineſſe,<note place="margin">Doctor <hi>San<g ref="char:EOLhyphen"/>derſon.</hi> Ser. 7. <hi>ad Aulam.</hi>
+               </note> 
+               <hi>for go they needs muſt whom the Devil drives:</hi> Hence ſome melt themſelves in Luſts and ſordid pleaſures, poſ<g ref="char:EOLhyphen"/>ſeſſed
+<pb n="11" facs="tcp:168907:10"/>with a <hi>Voluptuous Devil;</hi> others pine themſelves lean, whilſt they behold the fatneſſe of their neighbours portion,<note n="w" place="margin">Jo. 4.5.</note> 
+               <hi>The ſpirit that dwells in them luſteth after Envy,</hi> behold <hi>a malicious Devil.</hi> Another upon the wings of <hi>Ambition,</hi> ſoars to an uſurped pinacle of <hi>Honour;</hi> loe there dwells a proud Devil. Another ſtops his ears, and will not hear ſound doctrine, nor ſeaſonable reprehenſion, but is a fol<g ref="char:EOLhyphen"/>lower of ſuch teachers, as are after his own luſts, not being pleaſed with that which is true, but allowing that onely to be <hi>true</hi> which <hi>pleaſeth him:</hi> The Devil hath infected his eare with an itch, and unleſſe you <hi>claw him, he will not hear you.</hi> Another labours of a <hi>Bloody Flux,</hi> of <hi>Oaths,</hi> or lets his mouth looſe<note n="x" place="margin">Epiſt. Jude ver 8.</note> to ſpeak evill of <hi>Dignities:</hi> The Devil hath poſſeſſed his tongue, and ſet it on fire with <hi>the fire of Hell.</hi> O that all men living and lying in theſe and the like ſins, would take this to heart, that their <hi>precious Soul</hi> (for which the world aſſords not a valuable compenſation) is in the poſſeſſion of Satan: they are under the ſhadow and govern<g ref="char:EOLhyphen"/>ment of that <hi>Bramble the Devil,</hi> whence nothing can be ex<g ref="char:EOLhyphen"/>pected but the fire of Hell to come forth and deſtroy them.<note n="y" place="margin">Exod. 5.19.</note> The people of <hi>Iſrael</hi> finding themſelves in evil caſe under <hi>Pharaoh,</hi> when they were to gather <hi>ſtraw,</hi> and the whole tale of Brick alſo exacted, <hi>they cryed for anguiſh of heart, be<g ref="char:EOLhyphen"/>cauſe of their cruel bondage, and the Lord heard their cry,</hi>
+               <note n="z" place="margin">Exod. 6.6, 7, 8.</note> and by the <hi>hand of his Captain</hi> Moſes <hi>did bring them from under their burthens.</hi> O that all in their ſins would be ſo ſenſible of their bondage, as to cry earneſtly to God for their Souls, as the man in the Goſpel for his Son, <hi>Have mercy upon me O Lord for my Soul is poſseſſed with a Devil, and ſometimes he throws me into the Fire, and ſometimes into the Water;</hi> Makes me as hot as fire to the purſuit of that which is <hi>evil,</hi> but to <hi>that which is good, as cold as Ice.</hi> That they would <hi>cry migh<g ref="char:EOLhyphen"/>tily to God, one deep call upon another, a depth of miſery, on a depth of mercy. I am ſo faſt in priſon, I cannot get out.</hi> Then would the Lord ſend a greater then <hi>Moſes</hi> to deliver them, even his <hi>Son Jeſus the Captain of our Salvation, on whom he hath powred his ſpirit to bring deliverance to Captives, and to open the Priſon door, to ſuch as are bound under Satan.</hi>
+            </p>
+            <pb n="12" facs="tcp:168907:11"/>
+            <p>The ſecond and moſt welcome aſſertion that now invites your attention.<note place="margin">2 <hi>Prop.</hi> A ſinners de<g ref="char:EOLhyphen"/>liverance out of Bondage by Chriſt, who is</note>
+            </p>
+            <p>When <hi>Jeſus Chriſt</hi> is pleaſed in mercy to viſit any ſuch poor Captives, he ejects Satan, pulls down the reign and dominion of Sin, takes poſſeſſion of their hearts for his own habitation, and reſtores unto them the graces whereof they were deſpoiled.</p>
+            <p>
+               <hi>But when a ſtronger,</hi>
+               <note place="margin">Firſt, ſtronger then Satan, and comes up<g ref="char:EOLhyphen"/>on him.</note> &amp;c.</p>
+            <p>
+               <hi>This ſtrong man Satan,</hi> he buckles on his Armour about him, ſtands upon his Guard, is reſolved to keep his Cap<g ref="char:EOLhyphen"/>tives, and will not let them go. But there is no remedy, he muſt yeild perforce what he cannot hold.</p>
+            <p>
+               <hi>For a ſtronger then he, cometh upon him, and overcometh him.</hi>
+            </p>
+            <p>His valour that the firſt.</p>
+            <p>
+               <note n="a" place="margin">Pſal. 89.19.</note>
+               <hi>The Lord hath layed helpe upon one that is mighty.</hi>
+               <note n="b" place="margin">Dan. 9.25.</note> 
+               <hi>Meſ<g ref="char:EOLhyphen"/>ſiah the Prince,</hi> as <hi>Daniel</hi> calls him, enters the liſts, encoun<g ref="char:EOLhyphen"/>ters the <hi>Prince of the power of Darkneſſe,</hi> and the enter<g ref="char:EOLhyphen"/>prize ſhall go on with ſucceſſe,<note n="c" place="margin">Eſay 53.10.</note> 
+               <hi>the good pleaſure of the Lord ſhall proſper in his hands, for he waketh in great ſtrength, and is mighty to ſubdue enemies, and mighty to ſave his people;</hi> In whoſe preſence, Conqueſt its ſelfe ſtands exſpecting only his dread beck.</p>
+            <p>
+               <note n="d" place="margin">Luke 1.19.</note>
+               <hi>The Lord hath raiſed up a horn of Salvation, his Son Je<g ref="char:EOLhyphen"/>ſus Chriſt;</hi>
+               <note n="e" place="margin">Acts 10.43.</note> 
+               <hi>To him give all the Prophets witneſſe. A horn of Salvation,</hi> noting his power and ſtrength to break all the horns of Satan, and to batter down his Kingdome, untill it fall to the ground, as <hi>the Walls of Jericho at the ſound of the Rams horns.</hi>
+            </p>
+            <p>
+               <hi>Hail King</hi> (ſaid they in ſcorn) but <hi>King he is in earneſt,</hi>
+               <note n="f" place="margin">Eſay 96.54.</note> 
+               <hi>The Government is upon his ſhoulders,</hi> having a <hi>golden Scepter of Grace,</hi> which his people kiſſe, and an Iron rod of ſtrength, wherewith (according to the firſt <hi>Propheſie</hi>)<note n="g" place="margin">Gen. 3.15.</note> 
+               <hi>He breaketh the head of that old Dragon the Devil,</hi> who is as little able to reſiſt him as a <hi>Potters Veſſel a rod of Iron:</hi> to whom deſerved<g ref="char:EOLhyphen"/>ly appertains this magnificent Elogie, <hi>He is ſtronger then all. Greater is he that is in you,</hi> ſaith Saint <hi>John</hi> (that is Chriſt) then he <hi>that is in the world</hi> [i] <hi>the Devil.</hi> And for this pur<g ref="char:EOLhyphen"/>poſe
+<pb n="13" facs="tcp:168907:11"/>the <hi>Son of God</hi> was manifeſted,<note n="h" place="margin">1 Joh. 3.8</note> 
+               <hi>that he might deſtroy the works of the Devil.</hi> For the accompliſhing whereof he is throughly furniſhed.<note n="i" place="margin">Col. 1.19.</note> 
+               <hi>In him dwelleth all fulneſſe.</hi> A ful<g ref="char:EOLhyphen"/>neſſe of Wiſdome to contrive, a fulneſſe of Power to effect, and a fulneſſe of ſucceſſe; the Battell is not doubtfull, the Event is certain, <hi>He goes on conquering, and to conquer.</hi>
+            </p>
+            <p>The ſecond particular,<note place="margin">2. Overcomes him.</note> 
+               <hi>His victory; But when a ſtronger then he ſhall come upon him, and overcome him.</hi>
+            </p>
+            <p>
+               <hi>David,</hi> with a ſtone out of a ſling, ſmote <hi>Goliah</hi> to the ground, and then with his own Sword ſevered his Blaſphe<g ref="char:EOLhyphen"/>mous head from his ſhoulders.</p>
+            <p>The Son of <hi>David, Jeſus Chriſt, Daniels ſtone, cut forth of the Mountain without hands (born of a Virgin that never knew man)</hi> ſmote that <hi>Great Goliah,</hi> the Devil, foyled him with his <hi>own Weapon,</hi> conquered him with his <hi>own Sword; By death, overcame him that had the power of death.</hi>
+               <note n="k" place="margin">1 Cor. 23.24.</note> 
+               <hi>Chriſt Cru<g ref="char:EOLhyphen"/>cified, was to the Jewes a ſtumbling block, and to the Gentiles foo<g ref="char:EOLhyphen"/>liſhneſſe:</hi> but to them which are called, the <hi>power of God,</hi> and the <hi>wiſdome of God:</hi> The <hi>power of God</hi> to conquer the <hi>ſtrong man,</hi> in the Text <hi>Satan,</hi> and the <hi>wiſdome of God</hi> to befool that <hi>old Serpent,</hi> who would not have put it into the heart of <hi>Judas</hi> to betray him, had he not thought, that when he was nayled to the <hi>Croſſe,</hi> he could neither <hi>fight nor fly:</hi> but the Devil was miſtaken for all his craft.</p>
+            <p>The Croſſe was Chriſts triumphal Chariot, wherein he ſubdued all the <hi>Potentates and Powers of darkneſſe;</hi>
+               <note n="l" place="margin">Col. 2.15.</note> 
+               <hi>having ſpoyled Principalities and Powers, he made a ſhew of them openly, triumphing over them in it, in the Croſſe:</hi> for <hi>duo in cruce affixi intelliguntur,</hi> (ſaith <hi>Origen</hi>) two were fixed on the Croſſe, <hi>Chriſt viſibly and willingly for a time, and Satan inviſibly and un<g ref="char:EOLhyphen"/>willingly for ever.</hi>
+            </p>
+            <p>Now this victory takes quite away the <hi>ſcandal of the Croſſe,</hi> and bleſſed <hi>Paul</hi> will glory in nothing<note n="m" place="margin">Gal. 6.14.</note> 
+               <hi>but the Croſs of Chriſt.</hi> Chriſts Death gave ſuch a blow to the Devil, as caſt him down without any hopes of ever riſing again: when he had ſwallowed up Chriſt in the Grave, he thought he had got the Field, and that all was ſure, but he found (to his ſorrow) a <hi>Hook</hi> under that <hi>Bait</hi> which he never ſuſpe<g ref="char:EOLhyphen"/>cted;
+<pb n="14" facs="tcp:168907:12"/>he received a <hi>Trojan horſe</hi> within his <hi>Walls,</hi> which forced him to yeeld both <hi>Field</hi> and <hi>Victory;</hi> and he by <hi>Death</hi> ſeizing upon him that was <hi>Innocent,</hi> forfeited his <hi>po<g ref="char:EOLhyphen"/>wer over us</hi> that are <hi>guilty,</hi> ſo many of us as truly believe in Chriſt. An <hi>Eye of Faith,</hi> doth ſee in the <hi>Death and Paſſion of Chriſt.</hi> Hell diſappointed, Satan confounded, and <hi>Chriſts-poor captived Lambs reſcued</hi> (as a panting prey) out of the <hi>paw of that roaring Lyon,</hi> and the <hi>grim mouth of that raging Bear.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> But you will ſay, Satan doth ſtill fight againſt the <hi>Faithfull</hi> by his aſſaults and temptations.<note place="margin">Satan yet fights againſt the faithful.</note>
+            </p>
+            <p>
+               <hi>Anſw.</hi> True, he doth ſo, Chriſt permits him.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, To exerciſe his <hi>Childrens Graces,</hi> and to work them to a conformity with himſelfe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Yet ſecondly, Satan is deprived of all power, to prevail to the ruine of the Souls of <hi>Beleevers,</hi> they being built upon a <hi>Rock, againſt which the gates of Hell ſhall not prevail.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, For their comfort they ſtrive with a <hi>conquered enemy,</hi> who hath more <hi>Gall</hi> then <hi>ſtrength:</hi> ſo that if we like good Soldiers of <hi>Jeſus Chriſt reſiſt, ſtedfaſt in the Faith,</hi> the <hi>victory</hi> undoubtedly will be ours. <hi>He that hath trodden down Satan under his, will alſo tread him down under our Feet;</hi> and we ſhall have cauſe to triumph and ſay,<note n="n" place="margin">1 Cor. 15.57.</note> 
+               <hi>Thanks be unto God, which gives us the victory, through our Lord Jeſus Chriſt.</hi> Who the better to encourage us in this <hi>conflict,</hi> and to aſſure us of <hi>conqueſt,</hi> hath taken away from him all his <hi>armour.</hi>
+            </p>
+            <p>
+               <hi>But when a ſtronger then he cometh upon him, and overcom<g ref="char:EOLhyphen"/>eth him, he taketh from him all his armour, wherein he truſted.</hi>
+            </p>
+            <p>That's the third.<note place="margin">3. Taketh from him his armour.</note>
+            </p>
+            <p>
+               <hi>Satan is armed:</hi> firſt (as you have heard) with his own ſubtill &amp; ſerpentine temptations, which are ſo many <hi>ſtings</hi> and <hi>darts,</hi>
+               <note place="margin">1. Blunting the darts of his temptations.</note> whereby <hi>precious Souls</hi> receive many <hi>deadly wounds.</hi> But as a Serpent fixing his ſting upon a Rock, finds no entrance, and renders his ſting thereby uſeleſſe; ſo that <hi>old Serpent the Devil,</hi> attempting to faſten the ſting of his temptations upon the Rock which is Chriſt, loſt his ſting there, the <hi>power,</hi> the <hi>venome</hi> of it, and hath made it unca<g ref="char:EOLhyphen"/>pable
+<pb n="15" facs="tcp:168907:12"/>of ſtinging us, having by <hi>Faith</hi> once taken ſanctuary in the <hi>clefts of that Rock.</hi>
+               <note n="o" place="margin">Eph. 6.16.</note> 
+               <hi>Therefore above all,</hi> (ſaith the Apoſtle) <hi>take the ſhield of Faith, wherewith you ſhall be able to quench all the fiery darts of the Devil.</hi> Temptations are as ſo many <hi>darts</hi> that poyſon the Soul, and ſcorch it as with <hi>fire:</hi> But Chriſt touched by Faith, <hi>Faith in the promiſes made un<g ref="char:EOLhyphen"/>to us, yea and Amen in Chriſt, fetcheth vertue from his blood,</hi> (our Antidote) to repell that <hi>poyſon,</hi> and to quench thoſe <hi>fiery darts,</hi> which otherwiſe would drink up our ſpirits.</p>
+            <p>Receive <hi>Chriſt Jeſus</hi> into your hearts by Faith, ſet open the <hi>everlaſting doors,</hi> and let the <hi>King of Glory come into his Palace:</hi> then let Satans temptations fly like <hi>Darts</hi> and <hi>Ar<g ref="char:EOLhyphen"/>rowes</hi> ſo thick, as they may ſeem to darken the <hi>Sun:</hi> we ſhall fight in the ſhade, <hi>even under the ſhadow of the wings of the Sun of righteouſneſſe,</hi> we ſhall be ſafe under his <hi>Feathers, his faithfulneſſe and truth ſhall be our Shield and Buckler.</hi>
+            </p>
+            <p>But ſecondly, beſides the <hi>darts</hi> of his <hi>temptations,</hi>
+               <note place="margin">2. Subduing our corrupti<g ref="char:EOLhyphen"/>ons.</note> he is furniſhed with <hi>armour</hi> from our own ſins and luſts: True, but <hi>Chriſts conqueſt is over Sin,</hi> as well as <hi>Satan;</hi> he hath de<g ref="char:EOLhyphen"/>livered us from the <hi>puniſhment</hi> of ſin by his <hi>death,</hi> and from the <hi>power</hi> of ſin by his <hi>Grace.</hi> Yet all this ſtill upon the con<g ref="char:EOLhyphen"/>dition of the <hi>new Covenant,</hi> (to wit) <hi>a lively Faith in Chriſt Jeſus, manifeſted by Repentance from dead works, and a care to live righteouſly.</hi> This is not a <hi>cauſe</hi> meriting <hi>Chriſts victory,</hi> but a <hi>condition,</hi> a <hi>qualification</hi> neceſſarily required in all that ſhall partake of his <hi>victory:</hi> which if by us performed, then our ſins ſhall never be our ruine: Not our ſins paſt, he hath caſt them all into the depths <hi>of the Sea, he will blot them out of his remembrance,</hi> which is (in ſome ſort) to make them, as if they had never been. And for thoſe preſent remain<g ref="char:EOLhyphen"/>ders of ſin, he will abate their ſtrength by the power of his grace, <hi>convert</hi> our Members to be <hi>weapons of righteouſneſſe unto God,</hi> and bring us daily to a more intimate <hi>communion</hi> with himſelf in <hi>knowledge, love and obedience.</hi>
+            </p>
+            <p>Yet thirdly,<note place="margin">3. Paying the debt, the Law requires of us.</note> There is another parcel of <hi>armour</hi> Satan makes not a little uſe of, <hi>the Law.</hi> He drawes up a charge againſt us, as debtors to the whole Law by us violated and broken, and therefore expoſed to the <hi>wrath of God,</hi> which
+<pb n="16" facs="tcp:168907:13"/>is even a <hi>conſuming fire. But ever bleſſed be our Redeemer and ſurety Jeſus Chriſt,</hi> he hath paid the whole debt, the debt of univerſal and exact obedience, which we did owe to the <hi>Law as a Covenant of works,</hi> that he hath paid, <hi>It behoveth us</hi> (ſaith he of himſelfe) <hi>to fulfill all righteouſneſſe:</hi> The debt of <hi>malediction</hi> and wrath, which the Law inflicteth as a <hi>curſe</hi> that he hath paid, <hi>being made a curſe for us,</hi> and having done ſo much, he hath wrung the evidences out of Satans hands; ſo that now <hi>there is no condemnation to them that are in Chriſt Jeſus.</hi> The Law being ſatisfied, the <hi>deluge of Gods wrath</hi> is abated and dryed up, and the <hi>Father looking on Beleevers through his Son, in the midſt of Wrath remembers Mercy.</hi> For is his wrath a <hi>Fire?</hi> the water that flowed out of his ſide hath quenched it. Is it a Cup? he hath <hi>drank</hi> it; the po<g ref="char:EOLhyphen"/>tion <hi>killed</hi> him, but <hi>cured</hi> us. Is it a <hi>Wine-preſſe?</hi> he hath trodden the <hi>Wine-preſſe of his Fathers wrath alone,</hi> and none of the people were with him. Is the ſevere <hi>Juſtice</hi> thereof to be ſatisfied? he hath done it without the impeachment of an <hi>iota.</hi> Is it a debt? he hath paid the <hi>utmoſt farthing.</hi> And to eſtabliſh the hearts of <hi>Beleevers,</hi> and <hi>penitent ſinners</hi> in this truth, that <hi>they may have ſtrong conſolation,</hi> it was not without a <hi>Myſterie,</hi> that the <hi>Lord</hi> ſent an <hi>Angel</hi> to roule away the Stone from the Sepulchre of <hi>Chriſt,</hi> what needs an Angel? he was God as well as Man: <hi>If ſtones cleave aſunder at his Paſſion,</hi> they would remove at his <hi>Reſurrecti<g ref="char:EOLhyphen"/>on?</hi> True, but an <hi>Officer,</hi> an <hi>Angel</hi> is ſent to teſtifie the debt is paid, the Law is ſatisfied, the <hi>Priſon door</hi> is opened, and the <hi>Priſoner</hi> may come forth.</p>
+            <p>Let not Satan now boaſt of his <hi>armour,</hi> his own <hi>policy, our Sins,</hi> or the <hi>Laws claim: Chriſt hath taken away all his armour wherein he truſted, and divideth his ſpoiles.</hi> The laſt Improvement of this great conqueſt and victory.</p>
+            <p>
+               <hi>And divideth his ſpoyles.</hi>
+               <note place="margin">4. Dividing the ſpoyls, which is ſpo<g ref="char:EOLhyphen"/>ken in regard of</note>
+            </p>
+            <p>Whereof we have have a good comment in the 4. Chap<g ref="char:EOLhyphen"/>ter of the Epiſtle to the <hi>Epheſians,</hi> and the 8. verſe, <hi>He hath led Captivity captive, and given gifts unto men. He hath led Captivity captive,</hi>
+               <note place="margin">1. Perſons.</note> is either taken actively or paſſively, <hi>active<g ref="char:EOLhyphen"/>ly,</hi> he that did lead his people, his <hi>Elect</hi> captive (to wit) the
+<pb n="17" facs="tcp:168907:13"/>Devil, him <hi>Chriſt</hi> hath led captive, and<note n="p" place="margin">Epiſt. Jud. v. 6.</note> 
+               <hi>reſerved him in everlaſting chaines under Darkneſſe, unto the Judgement of the great Day, Paſſively,</hi> he hath led <hi>Captivity captive</hi> [i] thoſe that were led <hi>captive</hi> by <hi>Satan,</hi> the <hi>Lord Jeſus</hi> hath turned their <hi>captivity,</hi> and brought them under his <hi>Government,</hi> to <hi>march</hi> under his <hi>Banner,</hi> to <hi>fight his Battles,</hi> and to receive his <hi>pay.</hi> Thus then he <hi>divides his ſpoyles,</hi> diſpoſeth of <hi>Satan</hi> as his <hi>Priſoner,</hi> of <hi>Satans Vaſſals</hi> for his own <hi>Free-men,</hi> ſo ma<g ref="char:EOLhyphen"/>ny of them as renounce <hi>Satan,</hi> and come under him for <hi>protection.</hi>
+            </p>
+            <p>Again,<note place="margin">2. Gifts and Graces as</note> 
+               <hi>he divideth his ſpoyles</hi> [i] <hi>he hath given gifts unto men, even to the rebellious,</hi> if they will lay down their wea<g ref="char:EOLhyphen"/>pons of Rebellion, take up the <hi>gauntlet</hi> in his <hi>quarrel,</hi> and go into the field againſt <hi>Sin</hi> and <hi>Satan:</hi> Look what we have loſt by <hi>Adams fall,</hi> (who was foyled by Satan) and by our own wilfull diſobedience, is all reſtored to us by <hi>Chriſts victory.</hi> Particularly, the <hi>Image of God, perfect Liberty, the Celeſtial Paradice, withall the inexhauſted treaſures of Grace, and Glory conteined in them.</hi>
+            </p>
+            <p>Firſt,<note place="margin">1. The Image of God.</note> 
+               <hi>The Image of God,</hi> that rich ſpoyl, that beſt robe Chriſt hath put upon us, ſo that if you ask a <hi>Beleever, whoſe Image and ſuperſcription he bears? Gods,</hi>
+               <note n="q" place="margin">Col. 3.10. Eph. 4.24.</note> 
+               <hi>being renewed by Chriſt in Knowledge, in Righteouſneſſe and Holineſſe, after the Image of him that created him.</hi>
+            </p>
+            <p>Secondly,<note place="margin">2. Perfect liber<g ref="char:EOLhyphen"/>ty.</note> 
+               <hi>perfect Liberty; For if the Son make you Free, then are you Free indeed:</hi> Free from <hi>Sin,</hi> and Free from <hi>Death,</hi> from the <hi>terror</hi> of the one, and from the <hi>torment</hi> of the o<g ref="char:EOLhyphen"/>ther. Only <hi>abuſe not your Liberty</hi> (ſaith the Apoſtle) it is a freedome from <hi>ſin,</hi> but a freedome to <hi>ſervice,</hi> that having your <hi>Heart ſet at liberty,</hi> you may the more <hi>cheerfully run the wayes of Gods commandements.</hi>
+            </p>
+            <p>Thirdly,<note place="margin">3. The celeſtial paradiſe.</note> the <hi>Celeſtial Paradiſe,</hi>
+               <note n="r" place="margin">Col. 1.13.</note> he hath delivered us out of the <hi>Power of Darkneſſe, and tranſlated us into the King<g ref="char:EOLhyphen"/>dome of his dear Son, a Kingdome of Grace in poſſeſſion,</hi>
+               <note n="s" place="margin">Ver. 20.</note> 
+               <hi>the Kingdome of God is come upon you, and of</hi>
+               <note n="t" place="margin">Luk. 22.23.</note> 
+               <hi>glory in reverſion.</hi> Theſe are the rich ſpoyles our moſt <hi>puiſſant conquerour</hi> di<g ref="char:EOLhyphen"/>vides amongſt his <hi>Soldiers. I appoint unto you a Kingdome as
+<pb n="18" facs="tcp:168907:14"/>my Father hath appointed me.</hi> And having brought your <hi>Meditations</hi> hither, here I ſhall endeavour to lodge them, with ſome ſhort <hi>Application,</hi> and the ſhorter it will be, becauſe ſo much hath been interwoven in the former diſ<g ref="char:EOLhyphen"/>courſe. That which remains is,</p>
+            <list>
+               <item>Firſt,<note place="margin">Application.</note> By way of <hi>Query.</hi>
+               </item>
+               <item>Secondly, Of <hi>Counſel.</hi>
+               </item>
+               <item>Thirdly; For <hi>Courage</hi> and <hi>Animation.</hi>
+               </item>
+            </list>
+            <p>Firſt,<note place="margin">Firſt, for quaere.</note> you have heard the whole world is engaged, either for <hi>Chriſt</hi> or <hi>Satan,</hi> all fight either under <hi>Chriſts enſigne</hi> or the <hi>Devils.</hi> The important quaery now is, <hi>who are you for?</hi> un<g ref="char:EOLhyphen"/>leſs you return the anſwer of a good Conſcience to this quae<g ref="char:EOLhyphen"/>ry, you loſe your ſoul, which is more worth then the whole world. Bleſſed be God we are yet in the land of the living, let us make it the buſineſs of our whole life, to give a good anſwer to this weignty quaery, <hi>before we go hence, and be no more ſeen.</hi> Think of it what anſwer you will give to God, when Death ſhall ſummon you to his <hi>awful tribunal:</hi> If you have been for Chriſt behold his arms open to releive you, if for Satan, <hi>the Devil will have his due.</hi> O that we could ſay (with that holy <hi>Martyr</hi>) <hi>none but Chriſt, none but Chriſt;</hi> certain it is, that all one day, ſhall be ſubject to Chriſt, ei<g ref="char:EOLhyphen"/>ther as <hi>Subjects</hi> or <hi>Rebels:</hi> if they that will not kiſſe the <hi>golden Scepter of his grace,</hi> held forth in the <hi>Word,</hi> they ſhall feel the <hi>weight of his Iron rod, which ſhall break them in pieces like a Potters Veſſel, while there is none to help.</hi> Let us therefore caſt down all their weapons of <hi>Rebellion</hi> and diſobedience, leſt we be found fighting againſt Chriſt, Are you <hi>ſtronger</hi> then he that hath overcome this <hi>ſtrong man?</hi> are you able to meet him with ten thouſand ſins, who is able to come a<g ref="char:EOLhyphen"/>gainſt you with twenty thouſand <hi>Plagues</hi> and <hi>Judgements? who will come one day</hi>
+               <note n="u" place="margin">2 Theſ. 1.8.</note> 
+               <hi>in flaming fire, taking vengeance on them that know not God, and that obey not the Goſpel of our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt.w</hi> 
+               <hi>Depart, (I pray you) from the Tents of Wicked<g ref="char:EOLhyphen"/>neſſe, leſt you be conſumed in your ſins.</hi>
+            </p>
+            <p>And now the <hi>alarum</hi> ſounds in our <hi>ears,</hi> reſolve to be
+<pb n="19" facs="tcp:168907:14"/>
+               <hi>volunteers</hi> for Chriſt, conſecrating and giving up your ſelves a <hi>willing people</hi> unto him, though other <hi>Lords</hi> and other <hi>Luſts</hi> have had dominion over us: yet now let us make mention of his name onely, ſaying, <hi>We will have no King but Jeſus Chriſt reigne thou over us, for thou haſt delivered us from Satan that ſtrong man.</hi> And being thus re<g ref="char:EOLhyphen"/>ſolved hearken</p>
+            <p>Secondly,<note place="margin">2. Counſell.</note> to the <hi>Counſel.</hi>
+            </p>
+            <p>If you be for <hi>Chriſt</hi> then deliver up the <hi>Palace</hi> to him, let him have the <hi>Heart</hi> for his <hi>Temple,</hi> and let it be beauti<g ref="char:EOLhyphen"/>fied and furniſhed as is meet for his <hi>entertainment, like the Temple of the triumphant Solomon, with the rod of Aaron,</hi> wholſome <hi>Diſcipline in an holy frame of Heart, the two Ta<g ref="char:EOLhyphen"/>bles of the Law,</hi> the two Teſtaments written in the <hi>heart:</hi> the <hi>Pot of Manna;</hi> the <hi>Sacrament of the Lords Supper</hi> due<g ref="char:EOLhyphen"/>ly received, and with due preparation; Let not your <hi>heart</hi> be ſo withered within you, as to forget to eate that <hi>bread,</hi> with <hi>Morning and Evening Sacrifices of Pray<g ref="char:EOLhyphen"/>ers and Praiſes: For in his Temple doth every man ſpeak of his honour.</hi>
+            </p>
+            <p>Having thus conſecrated the <hi>Temple of the Heart to Chriſt,</hi> yet know the heart is naturally deceitful, and <hi>Satan</hi> will be buſie to re-obtain his <hi>Poſſeſſion:</hi>
+               <note n="w" place="margin">Prov. 4.23.</note> 
+               <hi>Go keep thy heart</hi> (ſaith <hi>Solomon</hi>) <hi>with all diligence;</hi> and above all thy keepings, keep thy <hi>Heart,</hi> and let not any boſome ſin lodge there with your allowance, but though it be as dear unto you as <hi>your right Hand, or your right Eye,</hi> yet <hi>cut it off, and caſt it from you,</hi> otherwiſe that ſin will hold <hi>Intelligence</hi> with the <hi>Enemy,</hi> to let him in again. But when he ſhall ſee that ſin killed and crucified, the Head of it (as I may ſay) upon the <hi>Walls,</hi> then he departs with ſhame and confuſion.</p>
+            <p>But this <hi>departure</hi> will be but as he <hi>departed</hi> from <hi>Chriſt</hi> for a <hi>ſeaſon</hi> (ſaith the Text,) therefore,</p>
+            <p>Thirdly,<note place="margin">3. Courage and Animation.</note> for <hi>Courage</hi> and <hi>Animation,</hi> we muſt all reſolve upon it as good <hi>Soldiers</hi> of <hi>Jeſus Chriſt,</hi> to make War againſt Satan as long as we live, and never to be at peace with him
+<pb n="20" facs="tcp:168907:15"/>nor our ſins, according to our vow in <hi>Baptiſme,</hi> which was to renounce the <hi>Devil</hi> and all his <hi>works,</hi> and to <hi>continue Chriſts faithful Soldiers and Servants to our lives end.</hi> When the Children of <hi>Iſrael</hi> were entred into the Land of <hi>Canaan,</hi> God tells them that they were to make <hi>Warre</hi> with the<note n="w" place="margin">Num. 33.53.</note> 
+               <hi>Cananites, untill they had deſtroyed them.</hi> So we that are en<g ref="char:EOLhyphen"/>tred into a <hi>covenant of peace with Chriſt,</hi> muſt be at <hi>War</hi> with <hi>Sin</hi> &amp; <hi>Satan,</hi> even to the utter deſtruction of every <hi>Amalekite.</hi>
+               <note n="x" place="margin">Luke 12.5.</note> 
+               <hi>Think you</hi> (ſaith our Saviour to his Diſciples) <hi>that I am come to ſend peace? I tell you nay, but debate.</hi> Chriſts buſineſs that he came upon the <hi>earth</hi> for, was to pull down the <hi>enmi<g ref="char:EOLhyphen"/>ty</hi> between God and us, and ſo to make <hi>peace;</hi> but not a ſin<g ref="char:EOLhyphen"/>ful <hi>peace,</hi> not <hi>peace</hi> with <hi>Satan,</hi> not peace with <hi>Sin,</hi> but to go out and <hi>fight daily againſt theſe Philiſtins.</hi>
+            </p>
+            <p>This hath been the ſad <hi>Cataſtrophe</hi> of the <hi>Caeſars</hi> and <hi>A<g ref="char:EOLhyphen"/>lexanders</hi> of the <hi>world,</hi> they have <hi>fled like Eagles to the con<g ref="char:EOLhyphen"/>quering of Nations,</hi> and have been afterwards <hi>conquered</hi> with their own <hi>luſts.</hi> Bid we <hi>battle</hi> to our own <hi>corruptions,</hi> labour to be <hi>conquerours</hi> at home, to keep that vaſt Sea of <hi>Paſſions</hi> &amp; <hi>Affections</hi> within due bounds: <hi>Fortior eſt qui ſe quam qui for<g ref="char:EOLhyphen"/>tiſſima vincit,</hi> He that overcomes himſelfe, is greater then he that overcomes a ſtrong City. This is the <hi>holy War,</hi> to fight againſt Sin and Satan: a <hi>War</hi> wherein we have Jeſus Chriſt for our Captaine, whoſe quarrell whilſt we eſpouſe, he will Crown us with Victory, and after that gives us a Crown of Victory. <hi>Be thou faithful unto Death</hi> (ſaith he) <hi>and I will give thee a crown of Life.</hi>
+            </p>
+            <p>The Jewel, the Myſtery conteined in the Text, you have had revealed and opened unto you: I muſt now beg a few minutes patience of you, untill we have reviewed the Hiſtory.</p>
+            <p>We read in the ſecond of the <hi>Kings</hi> and the ſeventh,<note place="margin">The Hiſtory reviewed and revived at this time.</note> how the Lord by implanting <hi>Phantaſies,</hi> and <hi>frightful apprehenſi<g ref="char:EOLhyphen"/>ons</hi> into the mindes of the <hi>Syrians,</hi> (then warring againſt <hi>Iſrael</hi>) thereby diſcomfitted the whole hoſt, ſo that they fled whilſt none purſued them: Here was a ſtrong man, <hi>And a ſtronger then he came upon him, and overcame him,</hi>
+               <pb n="21" facs="tcp:168907:15"/>with a <hi>Phantaſie,</hi> for the <hi>weakneſſe of God is ſtronger then men.</hi> Hereupon the Leapers ſaid to one another, <hi>This is a day of good tidings, if we hold our peace we do not well.</hi> Doubtleſſe this is a Day too of good Tydings, of the <hi>Proclaiming</hi> and of the <hi>Returning</hi> of his Sacred Majeſty King <hi>Charles the ſe<g ref="char:EOLhyphen"/>cond</hi> into his <hi>Kingdome,</hi> and into his <hi>Dominions</hi> with <hi>peace, ſafety</hi> and <hi>honour.</hi>
+            </p>
+            <p>
+               <hi>A ſtrong man armed</hi> not long ſince <hi>kept the Palace,</hi> the <hi>Royal Palace</hi> of the <hi>Kings of England,</hi> but a <hi>ſtronger then he hath come upon him and overcome him.</hi>
+            </p>
+            <p>We ſhould not do well to refrain our lips to keep back Gods mercies from this great <hi>congregation.</hi>
+            </p>
+            <p>Let us caſt our eyes therefore once more upon the words, and we ſhall meet with <hi>correſpondencies</hi> of like ef<g ref="char:EOLhyphen"/>fects, as meet together in the Text, and therein behold <hi>Gods mercy, and our own duty.</hi>
+            </p>
+            <p>Firſt,<note place="margin">1. The ſtrong man, the late Uſurper who was</note> for the <hi>ſtrong man</hi> in the Text, him you have heard to be the Devil; <hi>The ſtrong man that lately kept the Palace, what was he?</hi> We ſhall beſt <hi>judge by his works</hi> (our Saviours rule) <hi>Uſurpation, Tyranny, Murther</hi> and <hi>Rebellion,</hi> you know whoſe works they are, and you know whoſe works they have been of late years, and they repreſent him that did them, as <hi>ill-favoured a childe</hi> as the Devil hath any (un<g ref="char:EOLhyphen"/>leſſe the Lord rich in mercy, gave him repentance) and that you may the better know him by his <hi>features</hi> or rather <hi>deformities,</hi>
+            </p>
+            <p>Secondly,<note place="margin">2. Armed.</note> he was a <hi>ſtrong man armed,</hi> armed with the <hi>Serpents head, more ſubtill then all the Beaſts of the field:</hi> and armed with the <hi>Lions paw,</hi> with the <hi>Arms, Ammunition, Forts, Caſtles,</hi> and the whole <hi>Militia</hi> of the three <hi>Nations,</hi> by him uſurped and <hi>ſurreptitiouſly</hi> gained: but what ſpeak I of that ſtrength? Like the Man in the Goſpel poſſeſſed with a Devil;<note n="a" place="margin">Luk. 5.3.</note> 
+               <hi>No man could binde him, no not with chains, but he would pluck them aſſunder and breake them in pieces.</hi> This great<note n="b" place="margin">Iob. 41.27.</note> 
+               <hi>Leviathan</hi> eſteemed <hi>Covenants</hi> as <hi>ſtraw, Proteſtations</hi> as <hi>rotten wood, Engagements, Promiſes,</hi> and <hi>Oaths,</hi> (the ſtrongeſt bonds in the world) he would break
+<pb n="22" facs="tcp:168907:16"/>them as eaſily as<note n="c" place="margin">Judg 1.9.</note> 
+               <hi>Samſon broke the Withs like a thred of Towe when it touched the Fire.</hi> Above all, this<note n="d" place="margin">1 Sam. 17.5.</note> 
+               <hi>Goliah was armed with a coat of Male,</hi> with <hi>Impudence of Meridian al<g ref="char:EOLhyphen"/>titude;</hi> for he would <hi>Preach</hi> if need were, and <hi>Pray</hi> with the greateſt <hi>Phariſee</hi> of them all: yea <hi>weep</hi> too like the <hi>Cro<g ref="char:EOLhyphen"/>codile</hi> over his <hi>murdered prey:</hi> full well he knew how to co<g ref="char:EOLhyphen"/>ver all his horrid actings with <hi>Religion, Saint-ſhip,</hi> and the <hi>Liberty of the good people of the Nation.</hi>
+            </p>
+            <p>Thirdly,<note place="margin">3. Kept the Kings Koyal Palace.</note> in this poſture this <hi>ſtrong Man armed kept the Palace, the Royal and ancient ſeat of the Kings of England.</hi> There he played <hi>Rex.</hi> The <hi>Bramble</hi> was mounted above the <hi>Cedar</hi> of <hi>Lebanon, Antichriſt</hi> in his chair (for there are<note n="e" place="margin">1 Joh. 2.18.</note> ma<g ref="char:EOLhyphen"/>ny <hi>Antichriſts</hi>) <hi>exalting himſelf above all that is called God,</hi> his very <hi>Horſes</hi> in the <hi>Temple of God.</hi>
+            </p>
+            <p>Fourthly,<note place="margin">4. His goods are in peace, un<g ref="char:EOLhyphen"/>till</note> 
+               <hi>All this while his goods are in peace,</hi> none durſt ſay, why doſt thou ſo? He proſpered for a time in his <hi>wick<g ref="char:EOLhyphen"/>edneſſe,</hi> lived in all <hi>jollity</hi> without the controulment of any <hi>judgement,</hi> which indeed is one of Gods heavieſt <hi>judgements,</hi> to ſuffer <hi>proſperity</hi> to attend upon <hi>evil actions:</hi> Yet nothing was more common with him and his Flatterers then to in<g ref="char:EOLhyphen"/>terpret it as a bleſſing, and from his good ſucceſſe, to juſti<g ref="char:EOLhyphen"/>fie the evill of his enterprizes: <hi>Felix ſcelus virtus vocatur,</hi> it is no new thing to ſtamp the name of <hi>vertue</hi> upon <hi>proſpe<g ref="char:EOLhyphen"/>rous impiety;</hi> as <hi>Dionyſius</hi> having a fair winde after he had robbed the Temple of <hi>Aeſculapius</hi> ſtuck not to ſay, that the Gods love <hi>Sacriledge.</hi> This conceit reigned with him as long as he reigned, that <hi>he was bound to God, not bound by Satan, whilſt his goods were in peace.</hi>
+            </p>
+            <p>
+               <note n="f" place="margin">Pſal. 37.7. Ver. 2.10.</note>
+               <hi>But fret not thy ſelf</hi> (ſaith the Prophet <hi>David</hi>) <hi>becauſe of the man who bringeth wicked devices to paſſe, for he ſhall be cut down like the Graſſe, and wither as the green Herb, yet a little while and the wicked ſhall not be.</hi>
+            </p>
+            <p>
+               <hi>A ſtronger then he</hi> [i] Chriſt in the Text, and Chriſt too in the firſt place:<note place="margin">2. A ſtronger then he came.</note> he ſent his <hi>pale meſſenger Death, who came upon him,</hi>
+               <note place="margin">1. The Lord Chriſt,</note> 
+               <hi>and overcame that ſtrong man, and forced him from his Palace, and he is gone to his own place.</hi>
+            </p>
+            <p>There it was <hi>Chriſtus Dominus,</hi> the Lord Chriſt; and
+<pb n="23" facs="tcp:168907:16" rendition="simple:additions"/>
+               <hi>Chriſtus Dominus</hi> hath ſent us <hi>Chriſtum Domini,</hi> the Lord Chriſt hath ſent us the Lords Chriſt,<note place="margin">2. The Lords Chriſt King <hi>Charles</hi> the Second.</note> the Lords anoynted, our <hi>Soveraigne Lord King CHARLES the Second,</hi> to reign over us who is <hi>ſtronger then the ſtrong man,</hi> perſonal or collective,<note place="margin">1. Stronger being aſſiſted by God.</note> for the hand of God hath been apparently with him in the whole ſeries and progreſſe of our ſettlement.</p>
+            <p>The <hi>great</hi> and infinite <hi>wiſe God</hi> did ſee ſo many mens hearts drawn away from their obedience to their <hi>Soveraigne</hi> by ſtrong deluſions, as they could not be reduced to their Allegiance, without the infinite expence of <hi>Blood, or by a miracle:</hi> Behold therefore a <hi>miracle, King Charles</hi> returned from his <hi>Baniſhment,</hi> arrived upon the coaſt of <hi>England,</hi> ſetled in his Throne, without one drop of Blood ſhed, or one blow given, either by way of offence or defence: All <hi>mountains</hi> of oppoſition are become a <hi>plain,</hi> and the Lord hath brought forth the head-ſtone of <hi>En<g ref="char:EOLhyphen"/>glands</hi> glorious Fabrick with ſhoutings. And let us cry, <hi>Grace, Grace unto it.</hi>
+            </p>
+            <p>
+               <note n="g" place="margin">Zech. 3.6, 7.</note>
+               <hi>Not by might, nor by power, but by my ſpirit, ſaith the Lord of hoſts.</hi> Who ſo ſeeth not a miracle here, and ſends not up thanks to God for it, muſt be like the man of whom I ſpake in the opening of the Text, poſſeſſed with a Blinde and Dumb Devil. The Lord hath ſhewed himſelf from Heaven wonderfully; the Finger of God hath caſt the ſtrong Man and his po<g ref="char:EOLhyphen"/>wer out, and planted a ſtronger then he in. The right hand of the Lord hath the preheminence, the right hand of the Lord hath wrought this wonderfull alte<g ref="char:EOLhyphen"/>ration, and given us a ſtronger then he, his right hand, and his arme, and the light of his countenance, becauſe he had a favour unto him.</p>
+            <p>A favour to his right and unqueſtionable title: <hi>For the righteous Lord loveth righteouſneſſe.</hi>
+            </p>
+            <p>A favour to his incomparable patience, under unpa<g ref="char:EOLhyphen"/>ralleld
+<pb n="24" facs="tcp:168907:17"/>afflictions:<note n="h" place="margin">Ja. 5.14.</note> You have heard of the afflictions of <hi>Job</hi> (ſaith Saint <hi>James</hi>) and you have heard of the patience of <hi>King CHARLES</hi> and have ſeen the end of the Lord:<note n="i" place="margin">Pſal. 40.1, 2, 3.</note> 
+               <hi>He waited patiently for the Lord, and he inclined unto him and heard his cry, and hath brought him out of his diſtreſſe, and hath ſet his feet up<g ref="char:EOLhyphen"/>on a rock, and eſtabliſhed his goings, and hath put a new ſong into his mouth.</hi>
+            </p>
+            <p>A favour to his invincible conſtancy in the Chri<g ref="char:EOLhyphen"/>ſtian Religion, eſtabliſhed in the <hi>Church of England.</hi> In that Religion his Royal Father of glorious me<g ref="char:EOLhyphen"/>mory died, a Martyr, a King amongſt Martyrs: And in that, Religion his Royal Son hath lived, being im<g ref="char:EOLhyphen"/>moveable as a Rock in the midſt of the Sea of temp<g ref="char:EOLhyphen"/>tations: Thus did the Stars of his Vertues ſhine moſt clearly in the <hi>Dark Night</hi> of his <hi>Exilement.</hi> And for this cauſe we truſt he will be daily <hi>ſtronger</hi> in the affections of his <hi>Loyal people,</hi> and of all the true Sons of our Mother the <hi>Church of England.</hi>
+            </p>
+            <p>Secondly,<note place="margin">2. And hath overcome.</note> 
+               <hi>He will come upon them, and overcome them;</hi> yea, he hath overcome the hearts of his peo<g ref="char:EOLhyphen"/>ple already, by his Acts of <hi>Indulgence:</hi> As the Lord Chriſt draweth his people unto him, even ſo doth the Lords Chriſt.<note n="k" place="margin">Hoſea 11.4.</note> 
+               <hi>I drew them</hi> (ſaith the Lord) <hi>with cords of a Man, with bonds of Love, and I was to them as they that take off the Yoke,</hi> &amp;c.</p>
+            <p>So doth our <hi>Gracious Soveraigne</hi> humanely and cour<g ref="char:EOLhyphen"/>teouſly draw the hearts of his people unto him, with<g ref="char:EOLhyphen"/>out rigor or violence, not roughly drawing them as ſlaves, but gently alluring them as Sons, ſparing many, as a Father doth his Son, that hath highly exaſperated him.</p>
+            <p>Thirdly,<note place="margin">3. Takes away the armour.</note> 
+               <hi>Having overcome his people, he takes away their armour:</hi> All thoſe poyſonfull weeds of diſo<g ref="char:EOLhyphen"/>bedience and contradiction, which through the ma<g ref="char:EOLhyphen"/>lice of the Devil, and craftineſſe of Seducers, were
+<pb n="25" facs="tcp:168907:17"/>planted in many peoples hearts, do now dye and wither at the approach of this <hi>glorious Sun.</hi> The people are daily undeceived, and ſee plainly, that <hi>Liberty</hi> and <hi>Loyalty</hi> dwell together, and that they can partake of no true <hi>Freedome,</hi> who withdraw their obedience to their lawfull SOVERAIGN. Who,</p>
+            <p>Fourthly,<note place="margin">4. Divideth the ſpoyles.</note> divideth the ſpoyles amongſt his Sub<g ref="char:EOLhyphen"/>jects, by his moſt prudent diſtribution of <hi>Juſtice</hi> and <hi>Mercy:</hi> His <hi>Juſtice</hi> reſtores to him that was ſpoyled, that which the ſpoyler ſpoyled him of. And his <hi>Mercy</hi> is of large extent, manifeſted to a <hi>Miracle,</hi> even to ſuch as are conſcious to themſelves that they have not deſerved it.</p>
+            <p>Bleſſed be our good God, and bleſſed be our Eyes, that we See, and our Ears that we Hear, that which many Loyal and right worthy perſons (now aſleep in their Graves) have deſired to ſee and hear, but have not.</p>
+            <p>Thus is our Captivity turned from under a <hi>ſtrong Man</hi> a <hi>Bramble,</hi> to live under a <hi>ſtronger then he,</hi> a Vine which the Lords own right hand hath plant<g ref="char:EOLhyphen"/>ed, and made ſo ſtrong for himſelf: Thus I ſay is the Captivity of our Sion turned, whilſt we were like unto them that dream, a dream indeed; Deliverance came without looking, without labouring for; the leſſe of Man the more of God in it. The Lord was pleaſed not to give our deſired ſucceſſe to the Battle at <hi>Dunbar,</hi> nor at <hi>Worceſter,</hi> he reſerved the glory of this great work for himſelf.</p>
+            <p>
+               <hi>Not unto thee O Lord, not unto thee, but unto us be the ſhame of our Rebellions; not unto us O Lord, not unto us, but unto thee be the glory of bringing the King back againe to us.</hi>
+            </p>
+            <p>What remaineth now, but that you that hear me
+<pb n="26" facs="tcp:168907:18"/>this day, and all the three Nations, would ſuffer the word of exhortation.</p>
+            <p>To rejoyce and give thanks unto the Lord Chriſt,<note place="margin">Hence an ex<g ref="char:EOLhyphen"/>hortation to rejoyce and give thanks cautioned with.</note> who hath reſtored to us the <hi>Lords Chriſt, the Lords anoynted, our dread Soveraigne.</hi> The Lord hath highly magnified us in mercy, and deeply we are bound to magnifie him for his mercy, ſaying and ſinging with <hi>holy David</hi> every one of us;<note n="l" place="margin">Pſal. 35.10.</note> 
+               <hi>All my bones ſhall ſay, Lord who is like unto thee, who delivereſt the poor from him that is too ſtrong for him, yea the poor and the needy from him that ſpoyled him.</hi> Thus let us rejoyce and give thanks, yet with due cautions;</p>
+            <p>Firſt of <hi>Sobriety,</hi>
+               <note place="margin">1 Sobriety.</note> a <hi>ſacrifice</hi> of joy and praiſe ſuch a <hi>Mercy</hi> requires: But let it not be offered to <hi>Bacchus</hi> but <hi>Jovi Liberatori,</hi> to the <hi>great God of Heaven and Earth.</hi> Let us rejoyce and give thanks, and expreſſe the ſame by walking honeſtly as in the day;<note n="m" place="margin">Rom 13.13.</note> 
+               <hi>not in rioting and drunkenneſſe: who ſo</hi> (after this manner, ſaith the Lord) <hi>offereth praiſe glorifieth me, and to him that ordereth his converſation aright, will I ſhew the ſal<g ref="char:EOLhyphen"/>vation of God.</hi>
+            </p>
+            <p>Secondly,<note place="margin">2. Charity.</note> 
+               <hi>Charity</hi> and <hi>works of Mercy.</hi> A day of feaſting and joy is alſo a day of<note n="n" place="margin">Eſther. 9.22.</note> 
+               <hi>ſending portions one to another, and gifts to the poor.</hi> Let <hi>Mercy</hi> be ſhew<g ref="char:EOLhyphen"/>ed to them for his ſake, from whom we have recei<g ref="char:EOLhyphen"/>ved ſo great a <hi>Mercy.</hi>
+            </p>
+            <p>Thirdly,<note place="margin">3. Unity.</note> 
+               <hi>Unity</hi> and <hi>Peace</hi> one with another, and the rather, becauſe it is the deſire of a King to his Sub<g ref="char:EOLhyphen"/>jects, and ſhould conjure our hearts to abſtaine from all <hi>tearmes</hi> and notes of <hi>ſeparation.</hi> So ſhould our Kingdome, our Nation, our <hi>Hieruſalem</hi> be as a City that is at unity in it ſelfe, whilſt we that dwell together in it are at unity amongſt our ſelves.</p>
+            <p>Fourthly,<note place="margin">4. Daily prayers for his Majeſty.</note> with daily prayers for his <hi>MAJE<g ref="char:EOLhyphen"/>STY,</hi> That the Lord would keep this <hi>Mercy</hi> for<g ref="char:EOLhyphen"/>ever,
+<pb n="27" facs="tcp:168907:18"/>in the imaginations of the thoughts of his Heart, and prepare his Heart unto the Lord. That the rod of Affliction, which the Lord hath remo<g ref="char:EOLhyphen"/>ved from him, may open his eare to Diſcipline, and teach him with all prudence to ſway the Scep<g ref="char:EOLhyphen"/>ter, which he hath put into his hand. That it may appear daily (by his wiſe Government) that the Lord hath preſerved him to ſet forth his glory, to protect his Church, and for a bleſſing to his people.</p>
+            <closer>Glory to God in the higheſt.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
